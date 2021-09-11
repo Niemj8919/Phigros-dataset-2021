@@ -1,4 +1,4 @@
-## APTprog-dataset-2021
+## Phigros-dataset-2021
 
 This dataset contains data provenance graphs collected on Windows 10.
 
